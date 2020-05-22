@@ -1,0 +1,13 @@
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.exe
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.deps.json
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.json
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.dev.json
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.dll
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csprojAssemblyReference.cache
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfoInputs.cache
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfo.cs
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.dll
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Users\Edu_2\OneDrive\Área de Trabalho\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.genruntimeconfig.cache
